@@ -1,3 +1,5 @@
+# Đọc danh sách URL dạng nén .gz từ file epgUrl.txt
+# Ghi thông tin URL, Channel ID, Tên kênh và nguồn icon vào file excel epg.xlsx
 import requests
 import gzip
 import xml.etree.ElementTree as ET
