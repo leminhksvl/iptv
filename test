@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1, thu nghiem 1 (vlc, televizo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/oI5iR2Qq40QC-oRviwiExA/1744563600/anonymous/live/sctv1/master.m3u8
 
 #EXTINF:-1, thu nghiem 2 (televizo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/oI5iR2Qq40QC-oRviwiExA/1744563600/anonymous/live/sctv1/master.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1, thu nghiem 3 (televizo)
-https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/oI5iR2Qq40QC-oRviwiExA/1744563600/anonymous/live/sctv1/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|Referer=http://sctvonline.vn/
+https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/oI5iR2Qq40QC-oRviwiExA/1744563600/anonymous/live/sctv1/master.m3u8|User-Agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3|Referer=http://sctvonline.vn/
